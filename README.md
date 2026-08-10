@@ -2,6 +2,7 @@
 
 A minimal python application for use while learning all about
 
+* 
 * AWS
 * Terraform
 * Infrastructure as Code (IaC)
